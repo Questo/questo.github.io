@@ -6,7 +6,7 @@ title: The importance of boredom
 **When was the last time you allowed yourself to be bored?**
   
 I think most of us feel that boredom is something to loathe, and to be avoided at all times.
-That's why we constantly reach for some sort of stimuli, like our phones, videogames or watching crap television - anything we can to do not be alone with our thoughts.
+That's why we constantly reach for some sort of stimuli, like our phones, videogames or watching crap television - anything we can do to not be alone with our thoughts.
 
 I wanna be clear, I'm not making a case that checking up on social media, playing the latest triple A videogame or binge watch the latest season of your favourite show on Netflix is a bad thing.
 My case is rather that must realize that it is okay to be bored, to have nothing to do, that boredom can make us more productive and that it can make us happy (sometimes).
