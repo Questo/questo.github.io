@@ -2,7 +2,7 @@
 title:               mpma 
 tagline:             'My corner of the internet'
 description:         'A place for mathias expose his mind to the world, sorry world.'
-url:                 
+url:                 https://www.mpma.se
 baseurl:             ''
 paginate:            5
 permalink:           pretty
