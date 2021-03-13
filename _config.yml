@@ -1,7 +1,7 @@
 # Setup
 title:               mpma 
 tagline:             'My corner of the internet'
-description:         'A place for mathias to went his ideas to the world, sorry world.'
+description:         'A place for mathias expose his mind to the world, sorry world.'
 url:                 
 baseurl:             ''
 paginate:            5
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Mathias Andreasen
+  url:               https://mpma.se
+  email:             mathiasandreasen91@gmail.com
 
 # Gems
 plugins:

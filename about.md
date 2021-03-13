@@ -1,29 +1,18 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I was born in April 1991 in Sweden into a pretty standard nuclear family. My two year older sister and I grew up in an industrial community just by the highway very close to the city of <a href="https://en.wikipedia.org/wiki/jönköping" target="__blank">Jönköping</a> in the province of <a href="https://en.wikipedia.org/wiki/småland" target="__blank">Småland.</a>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I have always been interested in computers from a very early age, I have a strong memory of when my father loaned a MS-DOS computer from our cousins, and since that that I became enchanted.
 
-There are currently two themes built on Poole:
+## About this site
+This site will serve as my little corner of the internet. A place where I can share what's on my mind with the rest of the world, sorry wold.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
+**Some fun facts about the development of this site:**
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+* Built with [Jekyll](https://jekyllrb.com)
+    * Uses the [Lanyon](http://lanyon.getpoole.com) theme
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for visiting!
