@@ -13,7 +13,7 @@ The narrative jumps around all the time, which took me a few chapters to get int
 
 I found Chuck Palahniuk's style of writing to be very sarcastic, and a bit nihilistic. [A label that Palahniuk has rejected](https://en.wikipedia.org/wiki/Chuck_Palahniuk#Reception_and_criticism), stating that he is a romantic, and that his works is often mistakenly because they express ideas that others do not believe in.
 
-If I were to summarize what the book is about into a single word, I'd say change. Every character in this story wants to change out of what they are, some for very destructive reasons, and others for less so.
+If I were to summarize what the book is about into a single word, I'd say **change**. Every character in this story wants to change out of what they are, some for very destructive reasons, and others for less so.
 
 The book isn't that long, coming in shy of 300 pages but I'd say you could cut some of the later chapters down a bit as they don't really offer anything new to the story, other than underlining notions that have already been brought up not only once, but many times. The book is also quite heavy on "twists" once you are coming up to the end, one or two could've been enough - but it get's quite excessive.
 
