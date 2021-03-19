@@ -10,7 +10,7 @@ I was born in April 1991 in Sweden into a pretty standard nuclear family. My two
 I have always been interested in computers from a very early age, I have a strong memory of when my father loaned a MS-DOS computer from our cousins, and since that that I became enchanted.
 
 ## About this site
-This site will serve as my little corner of the internet. A place where I can share what's on my mind with the rest of the world, sorry wold.
+This site will serve as my little corner of the internet. A place where I can share what's on my mind with the rest of the world, sorry world.
 
 **Some fun facts about the development of this site:**
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
